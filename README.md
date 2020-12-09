@@ -1,5 +1,5 @@
 # Chinese-word-segmentation-and-part-of-speech-tagging
-
+### 自然语言理解大作业一
 实现的功能包括
 * 基于词典的分词方法
 * 基于统计的HMM分词方法
